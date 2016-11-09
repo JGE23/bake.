@@ -1,0 +1,1655 @@
+html {background-color: #330000;}
+
+.Baketitle{
+	color:#330000;
+	font-family: 'Pacifico', cursive;
+	font-size: 254px;
+	width:100%;
+	text-align: center;
+	transform: rotate(-4deg);
+	position:relative;
+	top:350px;
+}
+
+.Bakesubtitle{
+	color:#330000;
+	font-family: 'Rock Salt', cursive;
+	font-size: 25px;
+	width:100%;
+	text-align: center;
+	transform: rotate(-3deg);
+	position:relative;
+	top:590px;
+	line-height:1.8;
+	margin-left:30px;
+	margin-top:-69px;
+}
+
+.hey_there_title {
+	color: #cc3300;
+	font-family: 'Lobster Two',cursive;
+	font-size: 50px;
+	text-align: center;
+	padding-bottom: 0px;
+}
+
+.content_undersplash {
+	color: #cc3300;
+	font-family:'Open Sans', sans-serif;
+	font-size: 23px;
+	text-align: center;
+	margin:0px 150px 90px 150px;
+}
+
+/*START OF PAGE 2*/
+
+.cititle{
+	color:#cc3300;
+	font-family: 'Pacifico', cursive;
+	font-size: 214px;
+	width:100%;
+	text-align: center;
+	position:relative;
+	margin: 0px;
+	margin-bottom: 0px;
+	top:221;
+	left: -13;
+	letter-spacing: 3px;
+
+
+}
+
+.cake_choices{
+	color:#cc3300;
+	display: inline-block;
+	margin-top: 150px
+	margin-right:78px;
+	margin-left: 35px;
+	margin-bottom: 100px;
+}
+
+.cake_sizes{
+	color: #cc3300;
+	display:inline-block;
+	margin-top: 60px;
+	margin-right:78px ;
+	margin-left:70px ;
+	margin-bottom: 51px;
+}
+
+.basic_fillings {
+	color:#cc3300;
+	display: inline-block;
+	margin-top: 60px;
+	margin-right: 78px;
+	margin-left: 0px;
+	margin-bottom: 51px;
+
+}
+
+ .outside_icings{
+	color:#cc3300;
+	display: inline-block;
+	margin-top: 60px;
+	margin-right: 0px
+	margin-left: 55px;
+	margin-bottom: 51px;
+
+}
+
+/*START OF SUBTITLES*/
+
+.cakechoices_subtitle{
+	font-family: 'Lobster Two',cursive;
+	font-size: 25px;
+	margin-bottom: 0px
+}
+
+.cakesizes_subtitle{
+	font-family: 'Lobster Two',cursive;
+	font-size: 25px;
+	margin-bottom:0px ;
+}
+
+.cakefillings_subtitle{
+	font-family: 'Lobster Two',cursive;
+	font-size: 25px;
+	margin-bottom: 0px;
+}
+
+.cakeicings_subtitle{
+	font-family: 'Lobster Two',cursive;
+	font-size: 25px;
+	margin-bottom: 0px;
+}
+/*START OF LISTS*/
+.cakechoices_list{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 15px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.cakesizes_list{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 15px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.cakefillings_list{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 15px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.cakeicings_list{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 15px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+/*START OF PAGE 3*/
+
+.sctitle{
+	color: #cc3300;
+	font-family: 'Pacifico', cursive;
+	font-size: 150px;
+	text-align:right;
+	position: relative;
+	top: 12;
+	left: -18px;
+	line-height: 130%
+	letter-spacing:-.7;
+	margin-top: 0px;
+
+}
+.scake_one {
+	    color: #cc3300;
+		display: inline-block;
+		margin-left: 145px;
+}
+.scake_two {
+	    color: #cc3300;
+		display: inline-block;
+		margin-right: px;
+		margin-left: 73px;
+}
+.scake_three{
+		color: #cc3300;
+		display: inline-block;
+		margin-left: 65px;
+}
+
+/* START OF SUBTITLES*/
+
+.scake1_subtitle{
+		font-family:'Lobster Two',cursive ;
+		font-size:37px;
+}
+.scake2_subtitle{
+		font-family:'Lobster Two', cursive ;
+		font-size: 37px;
+}
+.scake3_subtitle{
+		font-family:'Lobster Two',cursive ;
+		font-size:37px;
+}
+
+/*START OF TXT*/
+
+.scake1_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 20px;
+}
+.scake2_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom:0px;
+}
+.scake3_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 20px;
+}
+/*SCAKE IMAGES*/
+
+.scake_1 {
+		margin-left: 145px;
+		margin-bottom: 100px
+}
+.scake_2 {
+		margin-left: 70px;
+		margin-bottom: 100px;
+}
+.scake_3 {
+		margin-left: 60px;
+		margin-bottom: 100px;
+}
+
+/*START OF PAGE 4*/
+.cuptitle{
+	color: #cc3300;
+	font-family: 'Pacifico', cursive;
+	font-size: 336px;
+	text-align:right;
+	position: relative;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	left:-34;
+}
+.ccake_one{
+	    color: #cc3300;
+		display: inline-block;
+		margin-top: 63px;
+		margin-left: 106px;
+}
+.ccake_two{
+	    color: #cc3300;
+		display: inline-block;
+		margin-top: 63px;
+		margin-left: 63px;
+}
+.ccake_three{
+	    color: #cc3300;
+		display: inline-block;
+		margin-top: 63px;
+		margin-left:65px;
+}
+
+/*START OF CCAKE SUBTITLES*/
+
+.ccake1_title{
+		font-family:'Lobster Two', cursive ;
+		font-size: 30px;
+}
+.ccake2_title{
+		font-family:'Lobster Two', cursive ;
+		font-size: 30px;
+}
+.ccake3_title{
+		font-family:'Lobster Two', cursive ;
+		font-size: 30px;
+}
+
+
+/*START OF CCAKE TXT*/
+.ccake1_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 50px;
+}
+.ccake2_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 50px;
+}
+.ccake3_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 50px;
+}
+
+/*START OF CCAKE IMGS*/
+
+.ccake_1{
+		margin-left: 105px;
+		margin-bottom: 300px
+}
+.ccake_2{
+		margin-left: 115px;
+		margin-bottom: 300px
+}
+.ccake_3{
+		margin-left: 118px;
+		margin-bottom: 300px
+}
+
+/*START OF PAGE 5*/
+
+.cvidtitle{
+	color:#cc3300;
+	font-family: 'Pacifico', cursive;
+	font-size: 145px;
+	position: relative;
+	top:-365px ;
+	margins-bottom: 0px;
+
+}
+
+/*START OF SECTIONS*/
+.cookie_one{
+	    color: #cc3300;
+		display: inline-block;
+		margin-top: -450px;
+		margin-left: 70px;
+}
+.cookie_two{
+	    color: #cc3300;
+		display: inline-block;
+		margin-top: -450px;
+		margin-left: 60px;
+}
+.cookie_three{
+	    color: #cc3300;
+		display: inline-block;
+		margin-top: -450px;
+		margin-left: 60px;
+}
+.cookie_four{
+	    color: #cc3300;
+		display: inline-block;
+		margin-top: -450px;
+		margin-left: 60px;
+}
+
+/* COOKIE TITLES*/
+
+.cookie1_title{
+		font-family:'Lobster Two', cursive ;
+		font-size: 27px;
+}
+.cookie2_title{
+		font-family:'Lobster Two', cursive ;
+		font-size: 27px;
+}
+.cookie3_title{
+		font-family:'Lobster Two', cursive ;
+		font-size: 27px;
+}
+.cookie4_title{
+		font-family:'Lobster Two', cursive ;
+		font-size: 27px;
+}
+
+/*COOKIE TXT*/
+
+.cookie1_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 20px;
+}
+.cookie2_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 20px;
+}
+.cookie3_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 20px;
+}
+.cookie4_txt{
+		font-family:'Open Sans',sans-serif;
+		font-size:15px;
+		margin-bottom: 20px;
+}
+
+/*COOKIE IMAGES*/
+
+.cookie_1{
+		margin-left:67px;
+}
+.cookie_2{
+		margin-left:56px;
+}
+.cookie_3{
+		margin-left:68px;
+}
+.cookie_4{
+		margin-left:81px;
+}
+
+/* PAGE 6 ABOUTUS START*/
+
+
+.autitle{
+	color:#993300;
+	font-family: 'Rock Salt', cursive;
+	font-size: 100px;
+	text-shadow: 0px -10px 55px #000000;
+	width:100%;
+	text-align: center;
+	transform: rotate(-20deg);
+    position: relative ;
+    top:-320px;
+}
+
+
+/*BOTTOM*/
+#page7{
+	color:#cc3300;
+}
+
+.widget_opening_hours{
+float: left;
+padding-left: 30px;
+text-align: left;
+
+}
+.hours-title{
+	font-family:'Lobster Two', cursive ;
+	font-size: 35px;
+	padding-left: 50px;
+}
+.day{
+	font-family:'Open Sans',sans-serif;
+	font-size: 20px;
+	padding: 0 35px 0 35px;
+}
+.left{
+
+}
+.right{
+	float: right;
+	padding-right: 95px;
+}
+/**/
+
+.widget_address{
+	text-align: center;
+	display:inline-block;
+	height: 200px;
+	margin-top: -25px;
+
+
+}
+
+.adrs-title{
+	font-family:'Lobster Two', cursive ;
+	font-size: 35px;
+	margin-bottom: 0px;
+}
+
+.adrss{
+	font-family:'Open Sans',sans-serif;
+    font-size: 20px;
+}
+
+
+/**/
+.widget_nav_menu{
+	font-family:'Lobster Two', cursive ;
+	font-size: 35px;
+	text-align: center;
+	display: inline-block;
+	margin-top: 45px;
+}
+
+/**/
+.col-3{
+	width:32.33%;
+}
+
+/*bottom footer*/
+.bottom{
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.copyright {
+	display: inline-block;
+	text-align: left;
+
+}
+.social{
+	display: inline-block;
+}
+
+
+
+
+
+
+/*for responisive*/
+@media screen and(max-width: 768px){
+	header{
+		width:100%;
+	}
+	html,body {
+		width: 100%;
+	}
+	.cakeicing-img{
+		width:100%;
+	}
+	.scakes-img{
+		width:100%;
+	}
+	.cupcake-img{
+		width: 100%;
+	}
+	#cookievid{
+		width:100%;
+	}
+	aboutus_oven{
+		width: 100%;
+	}
+}
+/*---START OF RESPONSIVE------------------------------------*/
+@media only screen and (max-width:320px){
+
+/*---TOP PAGE CONTENT---*/
+	header{
+		height:450px;
+	}
+	.Baketitle{
+		font-size:60px;
+		top:148px;
+	}
+	.Bakesubtitle{
+		font-size: 11px;
+		top:325px;
+		margin-left: 9px;
+	}
+
+	/*---HEY THERE PAGE---*/
+	.hey_there_title{
+		font-size: 30px;
+	}
+	.content_undersplash{
+	  font-size: 17px;
+		width: 290px;
+		margin-left:13px;
+		text-align: left;
+		line-height: 1.8;
+	}
+/*---CAKEICING PAGE---*/
+	.cakeicing-img{
+		height:150px;
+		width:100%;
+		margin-top: -20px;
+	}
+	.cititle{
+		font-size: 55px;
+		top: 180;
+		right: 0;
+		bottom: 0;
+		left:-5;
+		width: 100%;
+		text-align: center;
+		letter-spacing: 0;
+		line-height: 0px;
+	}
+	.cakechoices_subtitle{
+		margin-top: 85px;
+		margin-bottom: 0px;
+	}
+.cake_choices{
+	margin-bottom: 0px;
+ }
+.cake_sizes{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+	.cakesizes_subtitle{
+		margin: 0px;
+	}
+	.basic_fillings{
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-left: 5px;
+		margin-bottom: 0px;
+
+	}
+	.cakefillings_subtitle{
+		margin-left: 25px;
+		width: 100%;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.cakefillings_list{
+		margin-left: 40px;
+		margin-bottom: 0px;
+	}
+	.outside_icings{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 25px;
+	}
+	.cakingicings_subtitle{
+		margin-top:0px;
+		margin-bottom: 0px;
+		width: 100%;
+	}
+	.cakeicings_list{
+		margin-top:0px;
+	}
+
+/*---SPECIALITY CAKES PAGE--*/
+
+.scakes-img{
+	margin-top: 75px;
+	height: 230px;
+}
+.sctitle{
+	font-size: 55px;
+	width: 100%;
+	margin-bottom: 0px;
+	margin-left: 15px;
+	top: 240px;
+	text-align: center;
+	line-height: 1.4;
+}
+.scake_one {
+	margin-left: 20px;
+}
+.scake1_subtitle{
+	width:100%;
+	margin-top: 215px;
+	font-size: 25px;
+	text-align: center;
+}
+.scake1_txt{
+	font-size: 16px;
+	text-align: center;
+  margin-top: 0px;
+}
+.scake_two{
+	margin-left: 20px;
+}
+.scake2_subtitle{
+	font-size: 25px;
+	width: 100%;
+	text-align: center;
+	margin-left: 10px;
+}
+.scake2_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 15px;
+}
+.scake_three{
+	margin-left: 20px;
+}
+.scake3_subtitle{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.scake3_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+.scake_1{
+	margin-left: 40px;
+	margin-bottom: 0px;
+}
+.scake_2{
+	margin-left: 20px;
+}
+.scake_3{
+	margin-left: 10px;
+}
+
+/*---START OF CUPCAKES PAGE---*/
+.cupcake-img{
+	width: 100%;
+	height: 230px;
+}
+.cuptitle{
+	width: 100%;
+	font-size: 55px;
+	top: 220px;
+	text-align: center;
+  margin-left: 60px;
+}
+.ccake_one{
+	width: 100%;
+	margin-left: 0px;
+}
+.ccake1_title{
+	width:100%;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 55px;
+}
+.ccake1_txt{
+	width: 100%;
+	font-size: 16px;
+	text-align: center;
+}
+.ccake_two{
+	width: 100%;
+	margin-top:0px;
+	margin-left: 0px;
+}
+.ccake2_title{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.ccake2_txt{
+	width: 100%;
+	margin-top: 0px;
+	font-size: 16px;
+	text-align: center;
+}
+.ccake_three{
+	width: 100%;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.ccake3_title{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.ccake3_txt{
+	width: 100%;
+	margin-top: 0px;
+	font-size: 14.5px;
+	text-align: center;
+}
+.ccake_1{
+	margin-left: 35px;
+	margin-bottom: 0px;
+}
+.ccake_2{
+	margin-left: 35px;
+	margin-bottom: 0px;
+}
+.ccake_3{
+	margin-left: 5px;
+	width:100%;
+	height:220px;
+}
+
+/*---START OF COOKIE PAGE---*/
+#cookievid{
+	width: 100%;
+	height: 230px;
+	margin-top: -200px;
+}
+.cookievideo{
+	top:-150px;
+}
+.cvidtitle{
+	width: 100%;
+	font-size: 60px;
+	top: -50px;
+	margin-top: 0px;
+	text-align: center;
+	letter-spacing: 1.25;
+}
+.cookie_one{
+	width: 100%;
+	top:200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  margin-left: 25px;
+
+}
+.cookie1_title{
+	width: 100%;
+  margin-left: 20px;
+	margin-top: 0px;
+}
+.cookie1_txt{
+	width:100%;
+	font-size: 15px;
+	text-align: center;
+	margin-left: -25px;
+	margin-top: 0px;
+}
+
+.cookie_two{
+	width: 100%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.cookie2_title{
+	width:100%;
+	text-align: center;
+}
+.cookie2_txt{
+	width:100%;
+	text-align: center;
+}
+.cookie_three{
+	width:100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cookie3_title{
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+}
+.cookie3_txt{
+	width:100%;
+	text-align: center;
+}
+.cookie_four{
+	width:100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cookie4_title{
+	width:100%;
+	text-align: center;
+	margin: 0px;
+}
+.cookie4_txt{
+	width: 100%;
+	text-align: center;
+}
+.cookie_1{
+	margin-left: 35px;
+}
+.cookie_2{
+	margin-left: 45px;
+}
+.cookie_3{
+	margin-left: 35px;
+}
+.cookie_4{
+	margin-left:45px;
+}
+
+/*---ABOUTUS PAGE---*/
+.autitle{
+	width:100%;
+	font-size: 20px;
+}
+.aboutus_oven{
+	width: 100%;
+	height: 200px;
+	margin-top: 0px;
+}
+
+/*---BOTTOM PAGE--*/
+.widget_opening_hours{
+	width:100%;
+}
+.hours-title{
+	width: 100%;
+	margin-left: -25px;
+	margin-bottom: 20px;
+}
+.day{
+	font-size: 21px;
+	width: 100%;
+	margin-left: -20px;
+}
+.widget_nav_menu{
+	width:100%;
+	font-size: 40px;
+	margin-bottom: 45px;
+	border:1px solid;
+}
+.widget_address{
+	width: 100%;
+	margin-top: 0px;
+}
+.adrs-title{
+	width: 100%;
+	font-size: 35px;
+	margin-top: 0px;
+}
+.social{
+	margin-left: -30px;
+}
+}
+
+
+
+/*--NEXT RESPONSIVE----------------------------------------------------*/
+@media screen and(max-width:375px){
+	header{
+		width: 100%;
+	}
+	.kitchen{
+		height: 200px;
+	}
+	.Baketitle{
+		font-size:80px;
+		padding-top:208px;
+	}
+	.Bakesubtitle{
+		font-size: 11px;
+		top:325px;
+		margin-left: 9px;
+	}
+
+	/*---HEY THERE PAGE---*/
+	.hey_there_title{
+		font-size: 30px;
+	}
+	.content_undersplash{
+		font-size: 17px;
+		width: 290px;
+		margin-left:13px;
+		text-align: left;
+		line-height: 1.8;
+	}
+/*---CAKEICING PAGE---*/
+	.cakeicing-img{
+		height:150px;
+		width:100%;
+		margin-top: -20px;
+	}
+	.cititle{
+		font-size: 55px;
+		top: 180;
+		right: 0;
+		bottom: 0;
+		left:-5;
+		width: 100%;
+		text-align: center;
+		letter-spacing: 0;
+		line-height: 0px;
+	}
+	.cakechoices_subtitle{
+		margin-top: 85px;
+		margin-bottom: 0px;
+	}
+.cake_choices{
+	margin-bottom: 0px;
+ }
+.cake_sizes{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+	.cakesizes_subtitle{
+		margin: 0px;
+	}
+	.basic_fillings{
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-left: 5px;
+		margin-bottom: 0px;
+
+	}
+	.cakefillings_subtitle{
+		margin-left: 25px;
+		width: 100%;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.cakefillings_list{
+		margin-left: 40px;
+		margin-bottom: 0px;
+	}
+	.outside_icings{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 25px;
+	}
+	.cakingicings_subtitle{
+		margin-top:0px;
+		margin-bottom: 0px;
+		width: 100%;
+	}
+	.cakeicings_list{
+		margin-top:0px;
+	}
+
+/*---SPECIALITY CAKES PAGE--*/
+
+.scakes-img{
+	margin-top: 75px;
+	height: 230px;
+}
+.sctitle{
+	font-size: 55px;
+	width: 100%;
+	margin-bottom: 0px;
+	margin-left: 15px;
+	top: 240px;
+	text-align: center;
+	line-height: 1.4;
+}
+.scake_one {
+	margin-left: 20px;
+}
+.scake1_subtitle{
+	width:100%;
+	margin-top: 215px;
+	font-size: 25px;
+	text-align: center;
+}
+.scake1_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+}
+.scake_two{
+	margin-left: 20px;
+}
+.scake2_subtitle{
+	font-size: 25px;
+	width: 100%;
+	text-align: center;
+	margin-left: 10px;
+}
+.scake2_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 15px;
+}
+.scake_three{
+	margin-left: 20px;
+}
+.scake3_subtitle{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.scake3_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+.scake_1{
+	margin-left: 40px;
+	margin-bottom: 0px;
+}
+.scake_2{
+	margin-left: 20px;
+}
+.scake_3{
+	margin-left: 10px;
+}
+
+/*---START OF CUPCAKES PAGE---*/
+.cupcake-img{
+	width: 100%;
+	height: 230px;
+}
+.cuptitle{
+	width: 100%;
+	font-size: 55px;
+	top: 220px;
+	text-align: center;
+	margin-left: 60px;
+}
+.ccake_one{
+	width: 100%;
+	margin-left: 0px;
+}
+.ccake1_title{
+	width:100%;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 55px;
+}
+.ccake1_txt{
+	width: 100%;
+	font-size: 16px;
+	text-align: center;
+}
+.ccake_two{
+	width: 100%;
+	margin-top:0px;
+	margin-left: 0px;
+}
+.ccake2_title{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.ccake2_txt{
+	width: 100%;
+	margin-top: 0px;
+	font-size: 16px;
+	text-align: center;
+}
+.ccake_three{
+	width: 100%;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.ccake3_title{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.ccake3_txt{
+	width: 100%;
+	margin-top: 0px;
+	font-size: 14.5px;
+	text-align: center;
+}
+.ccake_1{
+	margin-left: 35px;
+	margin-bottom: 0px;
+}
+.ccake_2{
+	margin-left: 35px;
+	margin-bottom: 0px;
+}
+.ccake_3{
+	margin-left: 5px;
+	width:100%;
+	height:220px;
+}
+
+/*---START OF COOKIE PAGE---*/
+#cookievid{
+	width: 100%;
+	height: 230px;
+	margin-top: -200px;
+}
+.cookievideo{
+	top:-150px;
+}
+.cvidtitle{
+	width: 100%;
+	font-size: 60px;
+	top: -50px;
+	margin-top: 0px;
+	text-align: center;
+	letter-spacing: 1.25;
+}
+.cookie_one{
+	width: 100%;
+	top:200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+
+}
+.cookie1_title{
+	width: 100%;
+	margin-left: 20px;
+	margin-top: 0px;
+}
+.cookie1_txt{
+	width:100%;
+	font-size: 15px;
+	text-align: center;
+	margin-left: -25px;
+	margin-top: 0px;
+}
+
+.cookie_two{
+	width: 100%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.cookie2_title{
+	width:100%;
+	text-align: center;
+}
+.cookie2_txt{
+	width:100%;
+	text-align: center;
+}
+.cookie_three{
+	width:100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cookie3_title{
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+}
+.cookie3_txt{
+	width:100%;
+	text-align: center;
+}
+.cookie_four{
+	width:100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cookie4_title{
+	width:100%;
+	text-align: center;
+	margin: 0px;
+}
+.cookie4_txt{
+	width: 100%;
+	text-align: center;
+}
+.cookie_1{
+	margin-left: 35px;
+}
+.cookie_2{
+	margin-left: 45px;
+}
+.cookie_3{
+	margin-left: 35px;
+}
+.cookie_4{
+	margin-left:45px;
+}
+
+/*---ABOUTUS PAGE---*/
+.autitle{
+	width:100%;
+	font-size: 20px;
+}
+.aboutus_oven{
+	width: 100%;
+	height: 200px;
+	margin-top: 0px;
+}
+
+/*---BOTTOM PAGE--*/
+.widget_opening_hours{
+	width:100%;
+}
+.hours-title{
+	width: 100%;
+	margin-left: -25px;
+	margin-bottom: 20px;
+}
+.day{
+	font-size: 21px;
+	width: 100%;
+	margin-left: -20px;
+}
+.widget_nav_menu{
+	width:100%;
+	font-size: 40px;
+	margin-bottom: 45px;
+	border:1px solid;
+}
+.widget_address{
+	width: 100%;
+	margin-top: 0px;
+}
+.adrs-title{
+	width: 100%;
+	font-size: 35px;
+	margin-top: 0px;
+}
+.social{
+	margin-left: -30px;
+}
+}
+
+/*---NEXT RESPONSIVE----------------------------------------*/
+
+@media screen and(max-width:425px){
+	header{
+		height:500px;
+	}
+	.Baketitle{
+		font-size:75px;
+		top:0px;
+	}
+	.Btitle{
+		font-size: 55px;
+	}
+	.Bakesubtitle{
+		font-size: 14px;
+		top:400px;
+		margin-left: 9px;
+	}
+
+	/*---HEY THERE PAGE---*/
+	.hey_there_title{
+		font-size: 55px;
+		margin-top: 30px;
+	}
+	.content_undersplash{
+		font-size: 17px;
+		width: 290px;
+		margin-left:13px;
+		text-align: left;
+		line-height: 1.8;
+	}
+/*---CAKEICING PAGE---*/
+	.cakeicing-img{
+		height:150px;
+		width:100%;
+		margin-top: -20px;
+	}
+	.cititle{
+		font-size: 55px;
+		top: 180;
+		right: 0;
+		bottom: 0;
+		left:-5;
+		width: 100%;
+		text-align: center;
+		letter-spacing: 0;
+		line-height: 0px;
+	}
+	.cakechoices_subtitle{
+		margin-top: 85px;
+		margin-bottom: 0px;
+	}
+.cake_choices{
+	margin-bottom: 0px;
+ }
+.cake_sizes{
+	margin-left: 50px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+	.cakesizes_subtitle{
+		margin: 0px;
+	}
+	.basic_fillings{
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-left: 5px;
+		margin-bottom: 0px;
+
+	}
+	.cakefillings_subtitle{
+		margin-left: 25px;
+		width: 100%;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.cakefillings_list{
+		margin-left: 40px;
+		margin-bottom: 0px;
+	}
+	.outside_icings{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 25px;
+	}
+	.cakingicings_subtitle{
+		margin-top:0px;
+		margin-bottom: 0px;
+		width: 100%;
+	}
+	.cakeicings_list{
+		margin-top:0px;
+	}
+
+/*---SPECIALITY CAKES PAGE--*/
+
+.scakes-img{
+	margin-top: 75px;
+	height: 230px;
+}
+.sctitle{
+	font-size: 55px;
+	width: 100%;
+	margin-bottom: 0px;
+	margin-left: 15px;
+	top: 240px;
+	text-align: center;
+	line-height: 1.4;
+}
+.scake_one {
+	margin-left: 20px;
+}
+.scake1_subtitle{
+	width:100%;
+	margin-top: 215px;
+	font-size: 25px;
+	text-align: center;
+}
+.scake1_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+}
+.scake_two{
+	margin-left: 20px;
+}
+.scake2_subtitle{
+	font-size: 25px;
+	width: 100%;
+	text-align: center;
+	margin-left: 10px;
+}
+.scake2_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 15px;
+}
+.scake_three{
+	margin-left: 20px;
+}
+.scake3_subtitle{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.scake3_txt{
+	font-size: 16px;
+	text-align: center;
+	margin-top: 0px;
+	margin-left: 10px;
+}
+.scake_1{
+	margin-left: 40px;
+	margin-bottom: 0px;
+}
+.scake_2{
+	margin-left: 20px;
+}
+.scake_3{
+	margin-left: 10px;
+}
+
+/*---START OF CUPCAKES PAGE---*/
+.cupcake-img{
+	width: 100%;
+	height: 230px;
+}
+.cuptitle{
+	width: 100%;
+	font-size: 55px;
+	top: 220px;
+	text-align: center;
+	margin-left: 60px;
+}
+.ccake_one{
+	width: 100%;
+	margin-left: 0px;
+}
+.ccake1_title{
+	width:100%;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 55px;
+}
+.ccake1_txt{
+	width: 100%;
+	font-size: 16px;
+	text-align: center;
+}
+.ccake_two{
+	width: 100%;
+	margin-top:0px;
+	margin-left: 0px;
+}
+.ccake2_title{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.ccake2_txt{
+	width: 100%;
+	margin-top: 0px;
+	font-size: 16px;
+	text-align: center;
+}
+.ccake_three{
+	width: 100%;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.ccake3_title{
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+}
+.ccake3_txt{
+	width: 100%;
+	margin-top: 0px;
+	font-size: 14.5px;
+	text-align: center;
+}
+.ccake_1{
+	margin-left: 35px;
+	margin-bottom: 0px;
+}
+.ccake_2{
+	margin-left: 35px;
+	margin-bottom: 0px;
+}
+.ccake_3{
+	margin-left: 5px;
+	width:100%;
+	height:220px;
+}
+
+/*---START OF COOKIE PAGE---*/
+#cookievid{
+	width: 100%;
+	height: 230px;
+	margin-top: -200px;
+}
+.cookievideo{
+	top:-150px;
+}
+.cvidtitle{
+	width: 100%;
+	font-size: 60px;
+	top: -50px;
+	margin-top: 0px;
+	text-align: center;
+	letter-spacing: 1.25;
+}
+.cookie_one{
+	width: 100%;
+	top:200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+
+}
+.cookie1_title{
+	width: 100%;
+	margin-left: 20px;
+	margin-top: 0px;
+}
+.cookie1_txt{
+	width:100%;
+	font-size: 15px;
+	text-align: center;
+	margin-left: -25px;
+	margin-top: 0px;
+}
+
+.cookie_two{
+	width: 100%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.cookie2_title{
+	width:100%;
+	text-align: center;
+}
+.cookie2_txt{
+	width:100%;
+	text-align: center;
+}
+.cookie_three{
+	width:100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cookie3_title{
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+}
+.cookie3_txt{
+	width:100%;
+	text-align: center;
+}
+.cookie_four{
+	width:100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.cookie4_title{
+	width:100%;
+	text-align: center;
+	margin: 0px;
+}
+.cookie4_txt{
+	width: 100%;
+	text-align: center;
+}
+.cookie_1{
+	margin-left: 35px;
+}
+.cookie_2{
+	margin-left: 45px;
+}
+.cookie_3{
+	margin-left: 35px;
+}
+.cookie_4{
+	margin-left:45px;
+}
+
+/*---ABOUTUS PAGE---*/
+.autitle{
+	width:100%;
+	font-size: 20px;
+}
+.aboutus_oven{
+	width: 100%;
+	height: 200px;
+	margin-top: 0px;
+}
+
+/*---BOTTOM PAGE--*/
+.widget_opening_hours{
+	width:100%;
+}
+.hours-title{
+	width: 100%;
+	margin-left: -25px;
+	margin-bottom: 20px;
+}
+.day{
+	font-size: 21px;
+	width: 100%;
+	margin-left: -20px;
+}
+.widget_nav_menu{
+	width:100%;
+	font-size: 40px;
+	margin-bottom: 45px;
+	border:1px solid;
+}
+.widget_address{
+	width: 100%;
+	margin-top: 0px;
+}
+.adrs-title{
+	width: 100%;
+	font-size: 35px;
+	margin-top: 0px;
+}
+.social{
+	margin-left: -30px;
+}
+}
