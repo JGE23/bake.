@@ -526,7 +526,7 @@ text-align: left;
 		width: 100%;
 	}
 }
-/*---START OF RESPONSIVE------------------------------------*/
+/*---START OF RESPONSIVE----------------------*/
 @media only screen and (max-width:320px){
 
 /*---TOP PAGE CONTENT---*/
@@ -902,7 +902,7 @@ text-align: left;
 
 
 
-/*--NEXT RESPONSIVE----------------------------------------------------*/
+/*--NEXT RESPONSIVE------------------*/
 @media screen and(max-width:375px){
 	header{
 		width: 100%;
@@ -1277,7 +1277,7 @@ text-align: left;
 }
 }
 
-/*---NEXT RESPONSIVE----------------------------------------*/
+/*---NEXT RESPONSIVE----------*/
 
 @media screen and(max-width:425px){
 	header{
